@@ -11,6 +11,10 @@
  </style> 
 </head>
 
+<body>
+<p>あいうえお</p>
+</body>
+
 @charset"UTF-8";
 h1{font-size:1.75em;
 color:#2f4f4f;}
@@ -20,5 +24,13 @@ p{font-size:0.8em;
 color:#4682b4;}
 li{font-size:0.8em;
 color:#4682b4;}
+
+body{background-color:#ff9999;}
+h1{font-size:1.75em;
+color:#2f4f4f;}
+p{font-size:0.8em;
+ background-color:2f4f4f;
+ color:#4682b4;}
+
 
 </html>
