@@ -1,3 +1,7 @@
+body{
+ background-color:#fbf9cc;
+}
+
 h1 span{
  font-size:1.75em;
  color:#3399cc;
@@ -18,3 +22,15 @@ p{
 }
 li{font-size:0.8em;
 color:#333333;}
+
+#lead{
+ borer-top:#6fbb9a 1px dotted;
+ text-align:center;
+}
+
+greeting{
+ borer-top:#6fbb9a 1px dotted;
+ text-align:center;
+}
+
+ 
