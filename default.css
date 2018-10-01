@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+<meta charset="uft-8">
+ <title>タイトル</title>
+ <link rel-"stylesheet"href="css/default.css"type-"text/css"> 
+ 
+ <style>
+  @import url("css/default.css");
+ </style> 
+</head>
+
+@charset"UTF-8";
+h1{font-size:1.75em;
+color:#2f4f4f;}
+h2{font-size:1.25em;
+color:#2f4f4f;}
+p{font-size:0.8em;
+color:#4682b4;}
+li{font-size:0.8em;
+color:#4682b4;}
+
+</html>
